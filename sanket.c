@@ -4,7 +4,7 @@ int main() {
     int pin = 1234;
     int userPin;
     int choice;
-    int balance = 1000;  // basic starting balance
+    int balance = 1000;  
     int amount;
 
     printf("Enter PIN: ");
